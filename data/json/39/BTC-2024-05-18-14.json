@@ -1,0 +1,14 @@
+[
+    [
+        "start",
+        "end",
+        "topen",
+        "tclose",
+        "open",
+        "high",
+        "low",
+        "close",
+        "trades_count",
+        "volume"
+    ]
+]
